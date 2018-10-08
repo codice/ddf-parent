@@ -265,8 +265,8 @@
         <spring.version>5.0.5.RELEASE</spring.version>
         <spring-osgi.version>1.2.1</spring-osgi.version>
         <surefire.version>2.20.1</surefire.version>
-        <tika.thirdparty.bundle.version>1.18.0_2</tika.thirdparty.bundle.version>
-        <tika.version>1.18</tika.version>
+        <tika.thirdparty.bundle.version>1.19.0_1</tika.thirdparty.bundle.version>
+        <tika.version>1.19</tika.version>
         <usng4j.version>0.1</usng4j.version>
         <validation.version>1.1.0.Final</validation.version>
         <vividsolutions.jts.version>1.14.0</vividsolutions.jts.version>

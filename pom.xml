@@ -29,9 +29,9 @@
         <url>https://github.com/codice/ddf-parent.git</url>
         <connection>scm:git:https://github.com/codice/ddf-parent.git</connection>
         <developerConnection>scm:git:git@github.com:codice/ddf-parent.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>ddf-parent-1.0.12</tag>
   </scm>
-    <version>1.0.12-SNAPSHOT</version>
+    <version>1.0.12</version>
     <packaging>pom</packaging>
 
     <parent>
